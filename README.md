@@ -6,5 +6,5 @@ MAT is based on the Stanford Tagger. More information on the Stanford Tagger can
 
 When citing the code, please use the following book chapter:
 
-Nini, A. (2019). The Multi-Dimensional Analysis Tagger. In Berber Sardinha, T. & Veirano Pinto M. (eds), (https://www.bloomsbury.com/uk/multi-dimensional-analysis-9781350023840/ "Multi-Dimensional Analysis: Research Methods and Current Issues"), 67-94, London; New York: Bloomsbury Academic.
-(https://niniandrea.files.wordpress.com/2019/06/pre-print-the-multidimensional-analysis-tagger.pdf "[Download pre-print]")
+Nini, A. (2019). The Multi-Dimensional Analysis Tagger. In Berber Sardinha, T. & Veirano Pinto M. (eds), ["Multi-Dimensional Analysis: Research Methods and Current Issues"](https://www.bloomsbury.com/uk/multi-dimensional-analysis-9781350023840/), 67-94, London; New York: Bloomsbury Academic.
+[[Download pre-print]](https://niniandrea.files.wordpress.com/2019/06/pre-print-the-multidimensional-analysis-tagger.pdf)
