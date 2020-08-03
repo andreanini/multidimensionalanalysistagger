@@ -845,7 +845,7 @@ $status->Change(-text => "Checking for updates");
 
 my $update_check = get($url);
 
-if ($update_check !~ /$current_version<\/div>/ && $update_check ne "") {
+if ($update_check !~ /$current_version<\/p><\/div>/ && $update_check ne "") {
 
 	$status->Change(-text => "A new version of MAT is available");
 
