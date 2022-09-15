@@ -6,7 +6,7 @@ require 'Tagger_MAT.pl';
 require 'count_only.pl';
 require 'concordancer.pl';
 
-$current_version = "1.3.2";
+$current_version = "1.3.3";
 
 
 #{----------list of windows
